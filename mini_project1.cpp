@@ -44,7 +44,7 @@ int main()
 
     do
     {
-        printf("\n===== BANK MENU =====\n");
+        printf("\nBANK MENU\n");
         printf("1. Deposit\n");
         printf("2. Withdraw\n");
         printf("3. Show Balance\n");
